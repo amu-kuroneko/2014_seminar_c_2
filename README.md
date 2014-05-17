@@ -10,9 +10,9 @@
 あくまで提出課題を導いただけなので特別な機能や、便利な機能は存在しません。  
 
 csv ファイルの読込み  
-php -f ./src/import.php -- <CSVファイル> <テーブル名>  
+    php -f ./src/import.php -- <CSVファイル> <テーブル名>  
 
 解析プログラムの実行  
 
-php -f ./src/analysis1.php  
-php -f ./src/analysis2.php  
+    php -f ./src/analysis1.php  
+    php -f ./src/analysis2.php  
